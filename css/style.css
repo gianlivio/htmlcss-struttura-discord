@@ -1,3 +1,99 @@
 * {
-    background-color: blue;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
+
+
+
+
+.div1 {
+    background-color: blue;
+    width: 100%;
+    /* debug */
+    height: 60px;
+ border: 1px solid black;
+ margin: 20px;
+ display: flex;
+
+}
+
+  .rett1 {
+    background-color: pink;
+    width: 40px;
+    height: 30px;
+
+  }
+
+
+.div2 {
+    background-color: blue;
+    width: 100%;
+    /* debug */
+    height: 60px;
+border: 1px solid black;
+margin:20px;
+
+}
+
+  .rett2 {
+    background-color: pink;
+    width: 40px;
+    height: 30px;
+
+  }
+
+  .div3 {
+    background-color: blue;
+    width: 100%;
+    /* debug */
+    height: 60px;
+border: 1px solid black;
+margin: 20px;
+
+}
+
+
+  .rett3 {
+    background-color: pink;
+    width: 40px;
+    height: 30px;
+
+  }
+
+
+  .div4 {
+    background-color: blue;
+    width: 100%;
+    /* debug */
+    height: 60px;
+border: 1px solid black;
+margin: 20px;
+
+}
+
+
+  .rett4 {
+    background-color: pink;
+    width: 40px;
+    height: 30px;
+
+  }
+
+
+  .div5 {
+    background-color: blue;
+    width: 100%;
+    /* debug */
+    height: 60px;
+ border: 1px solid black;
+ margin: 20px;
+
+}
+
+  .rett5 {
+    background-color: pink;
+    width: 40px;
+    height: 30px;
+
+  }
