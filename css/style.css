@@ -4,7 +4,21 @@
     box-sizing: border-box;
 }
 
+.header {
+    background-color: rgb(113, 113, 201);
+    width: 100%;
+    /* debug */
+    height: 60px;
+    border: 1px solid black;
+    display: flex;
 
+}
+
+.orange {
+    background-color: orange;
+    width: 40px;
+    height: 30px;
+}
 
 
 .div1 {
@@ -12,18 +26,17 @@
     width: 100%;
     /* debug */
     height: 60px;
- border: 1px solid black;
- margin: 20px;
- display: flex;
+    border: 1px solid black;
+    display: flex;
 
 }
 
-  .rett1 {
+.rett1 {
     background-color: pink;
     width: 40px;
     height: 30px;
 
-  }
+}
 
 
 .div2 {
@@ -31,69 +44,103 @@
     width: 100%;
     /* debug */
     height: 60px;
-border: 1px solid black;
-margin:20px;
+    border: 1px solid black;
+    display: flex;
 
 }
 
-  .rett2 {
+.rett2 {
     background-color: pink;
     width: 40px;
     height: 30px;
 
-  }
+}
 
-  .div3 {
+.div3 {
     background-color: blue;
     width: 100%;
     /* debug */
     height: 60px;
-border: 1px solid black;
-margin: 20px;
+    border: 1px solid black;
+    display: flex;
 
 }
 
 
-  .rett3 {
+.rett3 {
     background-color: pink;
     width: 40px;
     height: 30px;
 
-  }
+}
 
 
-  .div4 {
+.div4 {
     background-color: blue;
     width: 100%;
     /* debug */
     height: 60px;
-border: 1px solid black;
-margin: 20px;
+    border: 1px solid black;
+    display: flex;
 
 }
 
 
-  .rett4 {
+.rett4 {
     background-color: pink;
     width: 40px;
     height: 30px;
 
-  }
+}
 
 
-  .div5 {
+.div5 {
     background-color: blue;
     width: 100%;
     /* debug */
     height: 60px;
- border: 1px solid black;
- margin: 20px;
+    border: 1px solid black;
+    display: flex;
 
 }
 
-  .rett5 {
+.rett5 {
     background-color: pink;
     width: 40px;
     height: 30px;
 
-  }
+}
+
+.foot1 {
+    background-color: black;
+    width: 100%;
+    /* debug */
+    height: 60px;
+    border: 1px solid black;
+    display: flex;
+
+}
+
+.rett6 {
+    background-color: green;
+    width: 40px;
+    height: 30px;
+
+}
+
+.foot2 {
+    background-color: black;
+    width: 100%;
+    /* debug */
+    height: 60px;
+    border: 1px solid white;
+    display: flex;
+
+}
+
+.rett7 {
+    background-color: pink;
+    width: 40px;
+    height: 30px;
+
+}
