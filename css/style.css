@@ -94,7 +94,7 @@ main {
 
 .rett1 {
 
-    margin-top: 20px;
+    margin-top: 25px;
     height: 150px;
     width: 60%;
     background-color: blue;
@@ -102,7 +102,7 @@ main {
 }
 
 .rett2 {
-    margin-top: 20px;
+    margin-top: 25px;
     border: 2px dashed black;
     height: 150px;
     width: 20%;
@@ -117,16 +117,17 @@ main {
 .container4 {
 
     height: 200px;
-    background-color: aliceblue;
+    background-color: lightgray;
     width: 100%;
     display: flex;
     justify-content: center;
+    
 }
 
 
 .rett3 {
 
-    margin-top: 10px;
+    margin-top: 25px;
     height: 150px;
     width: 20%;
     background-color: blue;
@@ -134,9 +135,59 @@ main {
 }
 
 .rett4 {
-    margin-top: 10px;
+    margin-top: 25px; 
     border: 2px dashed black;
     height: 150px;
     width: 60%;
     background-color: pink;
 }
+
+
+/* central part section 3 */
+
+
+.container3 {
+
+    height: 200px;
+    background-color: aliceblue;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+
+.rett1 {
+
+    margin-top: 25px;
+    height: 150px;
+    width: 60%;
+    background-color: blue;
+    border: 2px dashed black;
+}
+
+.rett2 {
+    margin-top: 25px;
+    border: 2px dashed black;
+    height: 150px;
+    width: 20%;
+    background-color: pink;
+}
+
+/* central part section 4 */
+
+.container5 {
+    
+    background-color: lightgray;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rettverde {
+    margin: 25px;
+    height: 500px;
+    width: 80%;
+    background-color: green;
+}
+
