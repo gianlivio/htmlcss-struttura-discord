@@ -235,3 +235,37 @@ li{
     background-color: blue;
     
 }
+
+
+.footer2 {
+    margin-top: 1px;
+    height: 100px;
+    background-color: black;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.footercontainer {
+    width: 60%;
+    margin-top: 10px;
+    height: 80px;
+    background-color: aqua;
+    display: flex;
+    justify-content:space-between;
+
+    
+}
+
+.footerlogo {
+    
+    padding:25px;
+    background-color: orange;
+    border: 1px dashed black;
+}
+
+.footerbottone {
+    padding: 25px;
+    background-color: orange;
+    border: 1px dashed black;
+}
